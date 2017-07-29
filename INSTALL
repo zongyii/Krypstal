@@ -1,0 +1,9 @@
+Building Krypstal
+
+See doc/readme-qt.rst for instructions on building Krypstal QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Krypstal.
+
+See doc/build-*.txt for instructions on building Krypstald,
+the intended-for-services, no-graphical-interface, reference
+implementation of Krypstal.
